@@ -11,3 +11,4 @@ Seção 2:  | Conceitos de programação
 Seção 3:  | Introdução à linguagem Java
 Seção 4:  | Estrutura sequencial
 Seção 5:  | Estrutura condicional
+Seção 6:  | Estrutura repetitivas
